@@ -1,6 +1,6 @@
 # Gesture Based Volume Control
 
-A programme that uses hand gestures to manage the loudness of your system
+A programme that uses hand gestures to manage the loudness of your system.
 Your volume can be increased and decreased by using any two fingers.
 
 ## Built with
